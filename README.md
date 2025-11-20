@@ -1,9 +1,8 @@
-# 🧩 Fett
+#  Fett
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 ## 📘 Description
