@@ -8,7 +8,7 @@
 </div>
 </p>
 
-## 📘 Description
+##  **Description**
 
 **Fett** is a lightweight Python utility designed to extract and analyze **file metadata** from a wide range of file types.  
 It provides a clean interface for retrieving attributes such as creation dates, modification timestamps, file size, MIME type, and additional metadata when available (EXIF, file headers, etc.).
