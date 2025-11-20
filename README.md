@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 </p>
 
 ## 📘 Description
