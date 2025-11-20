@@ -36,7 +36,5 @@ Whether you're scanning files manually or integrating metadata extraction into a
 
 ---
 
-## 📁 Directory Structure
 
-Here is the recommended structure for the project:
 
